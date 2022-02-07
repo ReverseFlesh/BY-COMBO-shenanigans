@@ -1,0 +1,83 @@
+[OPT]
+Debug=0
+Suwnd = 0
+FrameDebug=0
+Title=AJ339 Gaming Mouse
+;FontName=Roboto
+Ver=1.0.4
+appdir=AJ339
+TrayIcon = 3
+MsFw=0x012
+Txt_clr = 180,180,180
+Btn_txt_clr_nr = 180,180,180
+Btn_txt_clr_ov = 255,255,255
+Btn_txt_clr_dn = 255,0,0
+LstBox_bkg_clr = 39,39,39
+LstBox_item_clr = 150,150,150
+LstBox_txt_clr_nr = 180,180,180
+LstBox_txt_clr_dn = 0,0,0
+Menu_txt_clr_nr = 150,150,150
+Menu_txt_clr_ov = 255,255,255
+Menu_txt_clr_dn = 0,0,0
+;clrMask=0,255,0
+PopWndTrans=0
+BtnTips = 0
+ApplyNow=1
+GoWithNoDev=0
+
+ptProfileGp=62,540
+ptMsMarkDlg=520,120
+rcHomePageBtn=970,4,998,26
+;ptResetBtn=850,700
+;ViewKeyNum=10
+
+MacroDir=1
+MacroHasMsKey=0x07
+MacOperBtn=1
+MacProtocol=2
+clrFrame=67,67,67
+Mid=1
+ListTrans=1
+ShowEncryptOpt=1
+
+
+[MS]
+VID= 0x258A
+PID= 0x0029
+Sensor = 0x3327
+Pop=1
+PopByte1=0
+AutoSw=0
+RgbSW=0
+LedOpt6=0,0,0,0,6
+SnipMenu=1,11,0,1,2,3,4,5,6,7,8,9,10
+PSD=56,33,32,32
+LEDParam=4,2,3,0,0,0x3F
+;ShowReaction=1
+
+ShowUsbRateForPUBG=0x125,0x250,0x500,0x1000
+
+ShowEx=0x0000
+ExKey1=0x002E0021
+ExKey2=0x00100021
+
+[SENSOR_1]
+Sensor = 0x3327
+DM=6
+DPIH=8
+DPI=500,800,1500,2400,3200,6200
+DC=255,0,0, 0,255,0, 0,0,255, 0,255,255, 255,255,0, 255,0,255
+DEFLEVEL=1
+MDNUM=3
+KM=12
+K1_1=0x01,0x11,0x00,0x01
+K2_1=0x01,0x13,0x00,0x02
+K3_1=0x01,0x12,0x00,0x03
+K4_1=0x01,0x14,0x00,0x05
+K5_1=0x01,0x15,0x00,0x04
+K6_1=0x08,0xAA,0x00,0x06
+K7_1=0x08,0xAE,0x00,0x07
+K8_1=0x08,0xA2,0x00,0x08
+K9_1=0x08,0xA2,0x00,0x09
+K10_1=0x08,0xA2,0x01,0x0A
+DR=0x1000
