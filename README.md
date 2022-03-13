@@ -9,8 +9,9 @@ BY-COMBO1, 2 and 3 are packages that run on these rebranded Sino Wealth MCUs:
 - BY8832
 - BY8948
 - BYF1064 (SH68F1000S)
-- BY9128
-- BY9148
+- (BY9128)
+- (BY9148)
+- (BY9132)
 - (BYM8300)
 
 
