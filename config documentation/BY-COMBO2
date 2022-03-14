@@ -17,9 +17,17 @@ Title=SPC Gear LIX+
 
 #You can set this to anything, 9 characters max
 Ver=1.1
+
+#Doesn't cause anything when changed
 appdir=BY-COMBO2
+
+#Whether the program goes into tray first or shows up immediately
 TrayIcon = 1
+
+#Doesn't do anything as far as I can tell
 MsFw=0x002
+
+#Text Colors
 Txt_clr = 180,180,180
 Btn_txt_clr_nr = 180,180,180
 Btn_txt_clr_ov = 255,255,255
@@ -31,17 +39,38 @@ LstBox_txt_clr_dn = 0,0,0
 Menu_txt_clr_nr = 150,150,150
 Menu_txt_clr_ov = 255,255,255
 Menu_txt_clr_dn = 0,0,0
+
+#
 ClrPopWndBkg=6,6,7
 ClrPopWndFrame=100,100,100
+
+#Pop ups on hover
 BtnTips = 0
+
+#Does nothing but create a tiny window on the bottom left
 ShowDevList=0
+
+#
 ProfileGpY=510
+
+#Does nothing as far as I can tell
 ShowDrvOpt=0
+
+#Auto-apply toggle
 ApplyNow=1
+
+#Does nothing as far as I can tell
 GoWithNoDev=0
+
+#popup transparency
 PopWndTrans=160
+
+#
 ptMsMarkDlg=360,80
+
+#
 ptResetBtn=795,620
+
 
 MacroDir=1
 MacroHasMsKey=0x07
@@ -49,9 +78,17 @@ MacOperBtn=1
 MacProtocol=2
 
 [MS]
+
+#Vendor ID
 VID= 0x258A
+
+#Product ID
 PID= 0x0027
+
+#Sensor (has to be declared below)
 Sensor = 0x3360
+
+
 Pop=1
 PopByte1=0
 AutoSw=0
