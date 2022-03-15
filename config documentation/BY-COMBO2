@@ -50,7 +50,7 @@ BtnTips = 0
 #Does nothing but create a tiny window on the bottom left
 ShowDevList=0
 
-#
+#Y coordinate of Profile dropdown
 ProfileGpY=510
 
 #Does nothing as far as I can tell
@@ -65,10 +65,10 @@ GoWithNoDev=0
 #popup transparency
 PopWndTrans=160
 
-#
+#Coordinate of mouse picture
 ptMsMarkDlg=360,80
 
-#
+#Coordinate of reset button
 ptResetBtn=795,620
 
 
