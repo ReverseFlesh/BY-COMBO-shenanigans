@@ -94,11 +94,19 @@ PID= 0x0027
 #Sensor (has to be declared below)
 Sensor = 0x3360
 
-
+#Does nothing as far as I can tell
 Pop=1
+
+#Does nothing as far as I can tell
 PopByte1=0
+
+#Does nothing as far as I can tell
 AutoSw=0
+
+#Does nothing as far as I can tell, turned off by debounce
 ;DPIRGB=0
+
+
 ShowEffect=0
 ShowUsbRate=1
 MarkUsbRate=0
