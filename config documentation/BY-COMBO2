@@ -77,8 +77,10 @@ MacroDir=1
 #Does nothing as far as I can tell
 MacroHasMsKey=0x07
 
-
+#Changes between two macro menu style (always there vs. right click menu)
 MacOperBtn=1
+
+#Does nothing as far as I can tell
 MacProtocol=2
 
 [MS]
