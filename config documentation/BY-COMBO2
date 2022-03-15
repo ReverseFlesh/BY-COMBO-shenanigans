@@ -71,9 +71,13 @@ ptMsMarkDlg=360,80
 #Coordinate of reset button
 ptResetBtn=795,620
 
-
+#Does nothing as far as I can tell
 MacroDir=1
+
+#Does nothing as far as I can tell
 MacroHasMsKey=0x07
+
+
 MacOperBtn=1
 MacProtocol=2
 
